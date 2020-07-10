@@ -1,1 +1,1 @@
-# pc_setup
+# GS Hardware and Setup Checklists as a git and markdown practice
