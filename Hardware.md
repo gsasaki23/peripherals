@@ -13,14 +13,17 @@
 | Monitor | Sony VAIO VPCL 137FX/R All-in-one PC | 2020 | Gifted | PC Login lost, used as 27" main monitor. Glare sucks.
 | Monitor | HP VH240a 24" | S O O N | $110 | TBD - purchased to use vertically
 | Monitor | Acer P201W 20" | 2016 | Stolen | Thanks UCI! VGA/12Pin only, usable but benched.
+| Mouse | Logitech MX Master 3 | 2020 | $100 | Daily Driver
+| Mouse | Logitech G Pro Superlight | 2021 | $150 | Gaming Driver
 | Mouse | Razer Deathadder Elite | 2017 | Gifted | Minor wrist strains w/o wrist rest for my hands
-| Mouse | Logitech G602 | 2018 | Gifted | Wireless go-to
-| Mouse | Anker 7852M | 2019 | $35 | Takes getting used to, reduces strains with some desk heights. Would buy wrist rest instead with the same $.
+| Mouse | Logitech G602 | 2018 | Gifted | 
+| Mouse | Anker 7852M | 2019 | $35 | 
 | Mouse | Razer Abyssus | 2013 | $35 |
 | Keyboard | Logitech G610 | 2017 | $55 | Fullsize, MX Browns
-| Keyboard | Custom? | S O O N | $250 | GK64X 65%, Novelkeys Creams, Drop x SA Pulse Keycaps 
+| Keyboard | Think6.5 V1 | 2020 | $500+ | Polar Holy Pandas, MT3 Susuwatari
 | Microphone | Blue Yeti Nano | 2020 | $70 |
 | Camera | Logitech C920 | 2020 | $160 |
+| Desk | VIVO | 2021 | $330 | Standing/Sitting Hybrid. Cable routing is unideal
 | Desk | Unknown | 2018 | Stolen | Random desk found when moving. Cable routing is good, keyboard tray unideal for setup
 | Chair | Ikea Milberget | 2019 | Gifted | Hip strains without Purple seat cushion
 
