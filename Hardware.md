@@ -19,8 +19,9 @@
 | Mouse | Logitech G602 | 2018 | Gifted | 
 | Mouse | Anker 7852M | 2019 | $35 | 
 | Mouse | Razer Abyssus | 2013 | $35 |
-| Keyboard | Logitech G610 | 2017 | $55 | Fullsize, MX Browns
 | Keyboard | Think6.5 V1 | 2020 | $500+ | Polar Holy Pandas, MT3 Susuwatari
+| Keyboard | Tofu60 | 2020 | $200+ | Gateron Silent Black Inks, CTRL Keycaps
+| Keyboard | Logitech G610 | 2017 | $55 | Fullsize, MX Browns
 | Microphone | Blue Yeti Nano | 2020 | $70 |
 | Camera | Logitech C920 | 2020 | $160 |
 | Desk | VIVO | 2021 | $330 | Standing/Sitting Hybrid. Cable routing is unideal
