@@ -11,7 +11,8 @@
 | Type | Device | Since | Cost | Notes |
 |-|-|-:|-:|-|
 | Monitor | Sony VAIO VPCL 137FX/R All-in-one PC | 2020 | Gifted | PC Login lost, used as 27" main monitor. Glare sucks.
-| Monitor | HP VH240a 24" | S O O N | $110 | TBD - purchased to use vertically
+| Monitor | Asus TUF Gaming VG27WQ | 2020 | $250 | Main Daily Driver
+| Monitor | HP VH240a 24" | 2020 | $110 | Vertical Daily Driver
 | Monitor | Acer P201W 20" | 2016 | Stolen | Thanks UCI! VGA/12Pin only, usable but benched.
 | Mouse | Logitech MX Master 3 | 2020 | $100 | Daily Driver
 | Mouse | Logitech G Pro Superlight | 2021 | $150 | Gaming Driver
