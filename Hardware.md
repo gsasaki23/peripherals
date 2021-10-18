@@ -34,6 +34,5 @@
 * Thought about building a desktop, but decided to go pre-built because of a quick need. Chose NZXT BLD - received with GPU display ports covered by the case, which I had to self-adjust. Otherwise, I'm 100% happy with the setup for what I need.
 
 ## Wishlist:
-* Single Ultrawide Monitor (with monitor arm?) to transition from current dual (27 + 24 Vert). Maybe a 34"?
 * Desk - thinking of a janky Ikea LINNMON + ALEX + some way to keep pc off desk and ground
-* Chair - anything that doesn't hurt hips tbh
+* Chair: Secretlab Omega (Waiting for 2022 Model?) or Herman Miller
