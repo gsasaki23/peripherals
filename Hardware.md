@@ -1,4 +1,4 @@
-# Hardware v1.0
+# Hardware v2021
 
 ## Devices:
 | Device | Since | Cost | OS | CPU | RAM | GPU | Storage | Motherboard | Case | Power Supply | Cooling
@@ -10,9 +10,8 @@
 ## Peripherals:
 | Type | Device | Since | Cost | Notes |
 |-|-|-:|-:|-|
-| Monitor | Sony VAIO VPCL 137FX/R All-in-one PC | 2020 | Gifted | PC Login lost, used as 27" main monitor. Glare sucks.
-| Monitor | HP VH240a 24" | S O O N | $110 | TBD - purchased to use vertically
-| Monitor | Acer P201W 20" | 2016 | Stolen | Thanks UCI! VGA/12Pin only, usable but benched.
+| Monitor | ASUS TUF GAMING VG27WQ 27" | 2020 | $400 | Curved
+| Monitor | HP VH240a 24" | 2020 | $125 | Used Vertically
 | Mouse | Razer Deathadder Elite | 2017 | Gifted | Minor wrist strains w/o wrist rest for my hands
 | Mouse | Logitech G602 | 2018 | Gifted | Wireless go-to
 | Mouse | Anker 7852M | 2019 | $35 | Takes getting used to, reduces strains with some desk heights. Would buy wrist rest instead with the same $.
@@ -23,6 +22,12 @@
 | Camera | Logitech C920 | 2020 | $160 |
 | Desk | Unknown | 2018 | Stolen | Random desk found when moving. Cable routing is good, keyboard tray unideal for setup
 | Chair | Ikea Milberget | 2019 | Gifted | Hip strains without Purple seat cushion
+
+## Backup Peripherals:
+| Type | Device | Since | Cost | Notes |
+|-|-|-:|-:|-|
+| Monitor | Sony VAIO VPCL 137FX/R All-in-one PC | 2020 | Gifted | PC Login lost, used as 27" main monitor. Glare sucks.
+| Monitor | Acer P201W 20" | 2016 | Stolen | Thanks UCI! VGA/12Pin only, usable but benched.
 
 ## Thoughts:
 * Purposes are for internet browsing, coding (VS Code), and gaming (LoL, Valorant, Overwatch). As you can tell, nothing crazy - no editing, VR, or 3D shenanigans. 
